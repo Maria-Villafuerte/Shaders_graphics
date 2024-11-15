@@ -1,4 +1,4 @@
-# Planet Shader System
+# Shaders_graphics
 
 Este proyecto implementa un sistema de renderizado de planetas en Rust, permitiendo la visualización de diferentes tipos de planetas con efectos de sombreado únicos. El sistema utiliza shaders personalizados para crear representaciones visuales realistas de planetas con diferentes características superficiales.
 
